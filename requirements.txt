@@ -1,0 +1,8 @@
+streamlit
+scikit-learn
+xgboost
+nltk
+vaderSentiment
+scipy
+numpy
+pandas
